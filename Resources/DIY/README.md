@@ -1,2 +1,1 @@
-# Gemseeds
-## Do-It-Yourself Guide
+# Gemseeds | Do-It-Yourself Guide
