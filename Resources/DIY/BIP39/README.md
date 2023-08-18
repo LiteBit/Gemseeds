@@ -14,8 +14,8 @@ Learning about seed phrase generation is a daunting first step for people wantin
 Our aim with this simplified list is to eliminate all the unneccessary characters in the BIP-39 wordlist so kids aren't bored with cryptography-speak and can focus on making beautiful, personalized jewelry.
 
 ## Don't Trust. Verify
-The Official BIP-39 Wordlist: [https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt)
+Bitcoin's BIP-39 Wordlist: [https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt)
 
-Gemseeds' Simplified BIP-39 Wordlist: 
+Gemseeds' Simplified BIP-39 Wordlist: [https://github.com/LiteBit/Gemseeds/blob/main/Resources/DIY/BIP39/wordlist.txt](https://github.com/LiteBit/Gemseeds/blob/main/Resources/DIY/BIP39/wordlist.txt)
 
 Compare Both: 
