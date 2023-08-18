@@ -18,4 +18,4 @@ Bitcoin's BIP-39 Wordlist: [https://github.com/bitcoin/bips/blob/master/bip-0039
 
 Gemseeds' Simplified BIP-39 Wordlist: [https://github.com/LiteBit/Gemseeds/blob/main/Resources/DIY/BIP39/wordlist.txt](https://github.com/LiteBit/Gemseeds/blob/main/Resources/DIY/BIP39/wordlist.txt)
 
-Compare Both: 
+Compare Both: [https://github.com/LiteBit/Gemseeds/blob/main/Resources/DIY/BIP39/compare.md](https://github.com/LiteBit/Gemseeds/blob/main/Resources/DIY/BIP39/compare.md)
